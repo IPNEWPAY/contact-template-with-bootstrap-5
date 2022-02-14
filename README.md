@@ -21,6 +21,10 @@ Bug Report :bug:
 --------------------------------
 If you found a bug please create an issue [here](https://github.com/ypetrilli/contact-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
+Looking for more? Here are other free resources for you!
+--------------------------------
+- [Login form with Bootstrap 5](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
+
 Credits
 --------------------------------
 **About the image header in the form**
