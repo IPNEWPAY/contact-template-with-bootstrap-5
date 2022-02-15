@@ -24,6 +24,7 @@ If you found a bug please create an issue [here](https://github.com/ypetrilli/co
 Looking for more? Here are other free resources for you!
 --------------------------------
 - [Login form with Bootstrap 5](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
+- [Registration form with Bootstrap 5](https://ypetrilli.github.io/registration-form-with-bootstrap-5/)
 
 Credits
 --------------------------------
