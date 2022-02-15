@@ -1,4 +1,4 @@
-# Contact Template with Bootstrap 5
+# Contact Form with Bootstrap 5
 A free contact form made with [Bootstrap](https://getbootstrap.com/) to use as you like.
 
 Some information about this template
@@ -11,7 +11,7 @@ Some information about this template
 
 Installation
 --------------------------------
-You just need to download this template, or clone this repo and that's it! Ready to use as you wish!
+You just need to download or clone this repo and that's it! Ready to use as you wish!
 
 Demo
 --------------------------------
